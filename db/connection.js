@@ -1,5 +1,5 @@
 //IMporint
-import mysql from "mysql2";
+import mysql from 'mysql2';
 // Connect to database
 const db = mysql.createConnection(
     {
